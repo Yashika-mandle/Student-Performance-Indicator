@@ -10,6 +10,5 @@ dill
 
 #-e .
 
-# In utils -  # model.fit(X_train,y_train)
-              # model.fit(X_train, y_train)
+# In utils -  # model.fit(X_train, y_train)
               # yeh model train krne ke liye hai pr mene inhe temprorary comment kr diya hai
